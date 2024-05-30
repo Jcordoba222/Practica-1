@@ -1,2 +1,2 @@
-# Practica-1
-Retomando desde cero github
+Este repocitorio es una prueba para clonar desde githup a repositorio local
+
